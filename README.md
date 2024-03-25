@@ -1,9 +1,10 @@
-### Hi there 👋
+
 
 <!--
 Referência:
 https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github
 
+### Hi there 👋
 
 **JeffersonEstevo/JeffersonEstevo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,13 +23,13 @@ Here are some ideas to get you started:
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Jefferson Estevo and my nickname is "Estevo"!
 
-## Ferramentas e Tecnologias
+## Tools and Technologies:
 
 <!--<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>-->
 <img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original-wordmark.svg" width="40" height="40"/><img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" width="40" height="40"/><img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" width="40" height="40"/><img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original.svg" width="40" height="40"/><img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain.svg" width="40" height="40"/><img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" width="40" height="40"/><img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" width="40" height="40"/><img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" width="40" height="40"/><img loading="lazy" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
 
-## Contatos:
+## Contacts:
 
 <div>
 <a href="https://instagram.com/jefferson_estevo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
